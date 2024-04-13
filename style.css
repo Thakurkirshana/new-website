@@ -1,0 +1,13 @@
+.row{
+    margin: auto !important;
+}
+
+
+nav{
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 100000;
+}
+.navbar-toggler{
+    background-color: white !important;
+}
